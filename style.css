@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(flower.jpg);
+    
+}
+h1{
+    font-weight: 900;
+    color: black;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+.image{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+img{
+    padding-right: 40px;
+    border-radius: 50%;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+h2{
+    color: white;
+    text-align: left;
+    padding-top: 20px;
+    font-size: xx-large;
+    font-weight: 400;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    font-size: 20px;
+    font-weight: 500;
+}
+h3{
+    color:white;
+    text-align: left;
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: xx-large;
+}
+h4{
+    color:white;
+    text-align: left;
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: xx-large;
+}
+h5{
+    color: white;
+    text-align: left;
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: xx-large;
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    color: goldenrod;
+    font-size: 20px;
+    font-weight: 500;
+}
